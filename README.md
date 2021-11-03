@@ -13,3 +13,4 @@ After the password is randomly generated then it is returned to the user on the 
 
 ### Screenshot
 
+<img width="776" alt="Screen Shot 2021-11-02 at 10 12 22 PM" src="https://user-images.githubusercontent.com/84401029/140001207-57119d59-d73f-42b4-ba29-63b7b0b5a906.png">
